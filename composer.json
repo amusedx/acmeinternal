@@ -1,5 +1,5 @@
 {
-  "name": "acmex/internal-utils",
+  "name": "acme/internal-utils",
   "description": "Minimal utility package that echoes Hello World",
   "type": "library",
   "license": "MIT",
